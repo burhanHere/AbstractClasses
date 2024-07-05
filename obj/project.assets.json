@@ -8,31 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\burha\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/home/muhammad-burhan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\.Net\\AbstractClasses\\AbstractClasses\\AbstractClasses.csproj",
+      "projectUniqueName": "/media/muhammad-burhan/New Volume1/DotNet/C# .NET Core/AbstractClasses/AbstractClasses/AbstractClasses.csproj",
       "projectName": "AbstractClasses",
-      "projectPath": "D:\\.Net\\AbstractClasses\\AbstractClasses\\AbstractClasses.csproj",
-      "packagesPath": "C:\\Users\\burha\\.nuget\\packages\\",
-      "outputPath": "D:\\.Net\\AbstractClasses\\AbstractClasses\\obj\\",
+      "projectPath": "/media/muhammad-burhan/New Volume1/DotNet/C# .NET Core/AbstractClasses/AbstractClasses/AbstractClasses.csproj",
+      "packagesPath": "/home/muhammad-burhan/.nuget/packages/",
+      "outputPath": "/media/muhammad-burhan/New Volume1/DotNet/C# .NET Core/AbstractClasses/AbstractClasses/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\burha\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/muhammad-burhan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -45,11 +38,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -71,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.105/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
