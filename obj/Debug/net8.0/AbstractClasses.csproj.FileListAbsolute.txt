@@ -1,0 +1,14 @@
+D:\.Net\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.exe
+D:\.Net\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.deps.json
+D:\.Net\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.runtimeconfig.json
+D:\.Net\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.dll
+D:\.Net\AbstractClasses\AbstractClasses\bin\Debug\net8.0\AbstractClasses.pdb
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfoInputs.cache
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.AssemblyInfo.cs
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.csproj.CoreCompileInputs.cache
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.dll
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\refint\AbstractClasses.dll
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.pdb
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\AbstractClasses.genruntimeconfig.cache
+D:\.Net\AbstractClasses\AbstractClasses\obj\Debug\net8.0\ref\AbstractClasses.dll
